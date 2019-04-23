@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll"
+title: "jekyll"
 date: 2019-04-23
 ---
 
